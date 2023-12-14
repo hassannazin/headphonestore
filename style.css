@@ -1,0 +1,95 @@
+
+.header{
+    background-image: url(https://images.unsplash.com/photo-1613040809024-b4ef7ba99bc3?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    width: 100%;
+    height: 900px;
+    background-size: cover;
+}
+.textinfo{
+    padding-top: 500px;
+    margin-left: 60px;
+}
+.textinfo h6{
+    font-size: 10px;
+}
+.navbar{ 
+    background-color:rgb(181, 132, 200);
+}
+.textinfo2{
+    height: 250px;
+}
+.textinfo2 h2{
+    font-size: 30px;
+    padding-top: 60px;
+    margin-left: -35px;
+}
+.textinfo2 p{
+    font-size: 15px;
+    margin-left: -35px;
+}
+.textinfo2 a{
+    color: black;
+}
+.inf1{
+    background-color: wheat;
+    height: 100px;
+}
+.inf1 h2{
+    text-align: center;
+    padding-top: 30px;
+}
+.row{
+    margin: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.videoinfo h3{
+    margin-top: 40px;
+    margin: 40px;
+    margin-left: -2px;
+}
+.videoinfo{
+    margin-left: 75px;
+}
+.auto1 h2{
+margin: 40px;
+}
+.op1{
+    margin-top: 30px;
+}
+.im123{
+    display: flex;
+    justify-content: space-evenly;
+}
+.im1234{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+.sale{
+    background-color: wheat;
+    margin-top: 30px;
+    height: 200px;
+    padding-top: 40px;
+    margin-top: 20px;
+}
+.sale h2{
+    margin-left: 40px;
+}
+.sale h6{
+    margin-left: 40px;
+    padding-top: 30px;
+}
+.sale button{
+    margin-left: 1100px;
+    margin-top: -90px;
+}
+.i12{
+    transition: box-shadow 0.2s ease-in-out;
+
+}
+.i12:hover{
+    border: 4px ridge white;
+    box-shadow: 3px 2px 4px white;
+}
+
